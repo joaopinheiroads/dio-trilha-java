@@ -1,4 +1,4 @@
-public class BoletimEstudantil {
+public class ExemploBoletimEstudantil {
 
     public static void main(String[] args) {
         int mediaFinal = 6;
